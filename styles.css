@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    height: 3000px;
+    
+}
+
+.menu {
+    text-Align: Center;
+    background-color: white; 
+    height: 50px; 
+     
+}
+
+
+.intro p { 
+    text-align: center;
+    margin: auto;
+    border: 5px dotted blue; 
+    height: 40px;
+    width: 500px; 
+    margin-top: 80px; 
+    color: white; 
+    padding: 10px;
+   
+}
+
+.full-box {
+    overflow:auto;
+    background-color: red; 
+    margin-top: 100px;
+    
+     
+
+}
+
+.middle-box {
+    padding: 20px;
+    margin: 50px 100px;
+    margin-left: 800px;
+    overflow: auto;
+    background-color: green;
+    height: 80px;
+    width: 300px;
+    text-align: center;
+}
+
+
+
+.middle-box p {
+    color: white
+}
